@@ -1,0 +1,19 @@
+{
+    "name": "typescript",
+    "version": "1.0.0",
+    "description": "Typscript Fundamentals v3",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "parcel src/index.html"
+    },
+    "author": "nabsa",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^2.2.1",
+        "typescript": "^5.0.2"
+    },
+    "dependencies": {
+        "parcel": "^2.8.3",
+        "ts-node": "^10.9.1"
+    }
+}
